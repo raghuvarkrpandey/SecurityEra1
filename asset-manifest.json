@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SecurityEra1/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/SecurityEra1/static/js/main.852b2ee6.chunk.js",
+    "main.js.map": "/SecurityEra1/static/js/main.852b2ee6.chunk.js.map",
+    "runtime-main.js": "/SecurityEra1/static/js/runtime-main.8e65acdb.js",
+    "runtime-main.js.map": "/SecurityEra1/static/js/runtime-main.8e65acdb.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/SecurityEra1/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f03304ee.chunk.js": "/SecurityEra1/static/js/2.f03304ee.chunk.js",
+    "static/js/2.f03304ee.chunk.js.map": "/SecurityEra1/static/js/2.f03304ee.chunk.js.map",
+    "static/js/3.52c8abee.chunk.js": "/SecurityEra1/static/js/3.52c8abee.chunk.js",
+    "static/js/3.52c8abee.chunk.js.map": "/SecurityEra1/static/js/3.52c8abee.chunk.js.map",
+    "index.html": "/SecurityEra1/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/SecurityEra1/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/SecurityEra1/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.f03304ee.chunk.js.LICENSE.txt": "/SecurityEra1/static/js/2.f03304ee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SecurityEra1/static/media/logo.6ce24c58.svg",
+    "static/media/slide-1.37bd7a68.jpg": "/SecurityEra1/static/media/slide-1.37bd7a68.jpg",
+    "static/media/slide-2.dd1a52c3.jpg": "/SecurityEra1/static/media/slide-2.dd1a52c3.jpg",
+    "static/media/slide-3.644b1e28.jpg": "/SecurityEra1/static/media/slide-3.644b1e28.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e65acdb.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f03304ee.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.852b2ee6.chunk.js"
+  ]
+}
